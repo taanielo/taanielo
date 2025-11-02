@@ -13,11 +13,11 @@ My favorite topics are Clean Code, software architecture and design, Software Cr
 Simple social photo game website, where users can create account, upload their photos and play photo reveal game, where participants can guess what or who is on the photo. The idea was born after office Christmas party,
 where I created simple HTML & JS prototype for such game and it received a lot of positive feedback.
 
-Main motivation was to learn something new that everyday job didn't provide. Learned how to setup AWS infra (EC2, S3, RDS, SES, VPC) from sandbox to production, Google workspace for domain emails and lists, React (TypeScript) from zero to hero,
+Main motivation was to learn something new that everyday job didn't provide. Learned how to setup AWS infra (EC2, S3, RDS, SES, VPC, IAM, CloudWatch, ELB, WAF) from sandbox to production, Google workspace for domain emails and lists, React (TypeScript) from zero to hero,
 Gradle multimodule project (frontend, backend), vertical slice architecture, single page application together with Spring Security using Java Web Token authentication method, Spring Batch processing to generate thumbnails in the background.
 Additionally, what are the first features that provide immediate value and where to go from there, what are private info (personal photos) storage requirements and much more.  It was super fun try!
 
-#aws #react #typescript #vite #tailwindcss #springboot #architecture
+#aws # #react #typescript #vite #tailwindcss #springboot #architecture
 
 ## Xolo
 **Lead Product Engineer**
@@ -65,4 +65,20 @@ Jun 2008 - Feb 2009 · 10 months
 
 PHP & Oracle poker backend.
 
+# Trainings & Certificates
+* 2025 Coursera - Machine Learning Specialization
+* 2024 Stratospheric - From Zero to Production with Spring Boot and AWS
+* 2023 Devternity - Clean Architecture workshop
+* 2022 LinkedIn - Software Architecture: Breaking a Monolith into Microservices
+* 2022 LinkedIn - Software Architecture: From Developer to Architect
+* 
 
+# Books
+* Clean Code (Robert C. Martin)
+* Head First Design patterns (Eric Freeman & Elisabeth Robson)
+* Refactoring: Improving the Design of Existing Code (Martin Fowler)
+* Software Craftsman, The: Professionalism, Pragmatism, Pride (Robert C. Martin Series) (Sandro Mancuso)
+* Talking with Tech Leads: From Novices to Practitioners (Patrick Kua)
+* Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith (Sam Newman)
+* Building Microservices: Designing Fine-Grained Systems (Sam Newman)
+* and many more ..
